@@ -1,5 +1,5 @@
 ### INF601 - Advanced Programming in Python
-### [Your Name Here]
+### Brian Shoemaker
 ### Mini Project 1
 
 # Stock Market Data Visualization
