@@ -26,8 +26,8 @@ This project uses the Yahoo Finance API (yfinance) to collect closing price data
 
 1. Clone this repository or download the project files
 ```bash
-git clone [your-repository-url]
-cd [your-project-folder]
+git clone https://github.com/BlazingCrow88/miniproject1BrianShoemaker.git
+cd miniproject1BrianShoemaker
 ```
 
 2. Install required packages using pip:
